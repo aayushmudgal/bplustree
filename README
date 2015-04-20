@@ -1,0 +1,12 @@
+run as:
+
+1. make
+2. ./a.out
+
+Max_Keys: bplustree.config     					
+Initiliazing filename: assgn2_bplus_data.txt	declared as global variables
+Query filename : querysample.txt				declaraed as global variables
+
+Output on the console.
+
+make clean: to empty out the temp folder 
